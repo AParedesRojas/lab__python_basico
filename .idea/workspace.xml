@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -35,6 +38,7 @@
     "Python.Test_06.executor": "Run",
     "Python.Test_07.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/DEVELOPER/PYTHON/SESION 2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -199,7 +203,7 @@
       <workItem from="1724511696609" duration="158000" />
       <workItem from="1724511865353" duration="135000" />
       <workItem from="1724517077750" duration="3099000" />
-      <workItem from="1724596381780" duration="10511000" />
+      <workItem from="1724596381780" duration="11122000" />
     </task>
     <servers />
   </component>
